@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+# collage Management Dashboard
 
 ## Getting Started
 
